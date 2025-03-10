@@ -1,8 +1,8 @@
-#MicroC Compiler – Phase 1: Scanning and Parsing
+# MicroC Compiler – Phase 1: Scanning and Parsing
 
 This repository contains the initial phase of the MicroC Compiler – a robust, lightweight compiler for a C-like language designed for efficiency and clarity. In this phase, our goal is to validate the syntactic structure of source code by tokenizing the input and constructing its corresponding parse tree.
 
-##Repository Setup
+## Repository Setup
 
     Clone the Repository:
     Clone the repository to your development machine using your preferred Git client.
@@ -10,7 +10,7 @@ This repository contains the initial phase of the MicroC Compiler – a robust, 
     Development Environment:
     Ensure your environment is configured as described in the Project Environment Documentation. This setup includes installing ANTLR, Java (or Python for experimental support), and other required tools.
 
-##Overview
+## Overview
 
 Compilers begin by determining whether a source program is valid—i.e., it uses the correct language vocabulary (keywords, operators, identifiers) and adheres to proper grammar. Our compiler uses two core components for this phase:
 
