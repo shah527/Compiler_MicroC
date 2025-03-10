@@ -91,4 +91,4 @@ Next Steps
 
 This phase lays the foundation for subsequent compiler phases, including semantic analysis, code generation, and optimization. Contributions, improvements, and further feature implementations are welcome as we continue to evolve the MicroC Compiler.
 
-Note: This documentation is intended for developers and contributors interested in building and extending a production-quality compiler.
+### Note: This documentation is intended for developers and contributors interested in building and extending a production-quality compiler.
